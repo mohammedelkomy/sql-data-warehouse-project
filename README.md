@@ -37,4 +37,4 @@ These insights empower stakeholders With key business metrics, enabling strategi
 
 🌟 About Me
   
-Hi there! I'm **Mohamed Elkomy** ,  I'm a data Analyst & Data Engineer
+Hi there! I'm **Mohamed Elkomy** ,  I'm a Data Engineer &  Data Analyst.
